@@ -74,3 +74,7 @@ $ sudo docker run -dp 127.0.0.1:3000:3000 getting-started
 $ sudo docker ps
 #查看docker行程狀態
 ```
+此時點開網頁應可以看到你的應用程式正式運行了:
+
+![First application](../img/first_app.png)
+<h4 align=center>First application</h4>
