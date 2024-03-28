@@ -12,6 +12,7 @@
   * [應用程式容器化](docs/ContainerizeApplication.md)
   
     1. [Dockfile](doc/Dockerfile.md)
+    2. [Multi-stage builds](doc/MultiStageBuild.md)
       
    
   
