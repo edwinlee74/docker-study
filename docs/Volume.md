@@ -1,4 +1,4 @@
- <h3 align=center>Docker Volume</h3>
+ <h3 align=center>Volume</h3>
 
 由於Docker容器是唯讀屬性，因此如果要將存放的資料持久化，需要從主機綁定一個空間供容器使用，[Bind mounts](https://docs.docker.com/storage/bind-mounts/)是從早期Docker就已存在了，與volume相比，功能有限，而它會存放在Docker的storage目錄之下，並受到Docker的管控。
 
